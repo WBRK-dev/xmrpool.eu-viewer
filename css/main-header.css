@@ -46,6 +46,7 @@ main .header .navbar_btn button {
     border-radius: 20px;
     padding: 10px 20px;
     outline: none;
+    cursor: pointer;
 }
 
 main .header .navbar_btn i {position: absolute; top: 50%; right: 11px; transform: translateY(-50%);}
