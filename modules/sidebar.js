@@ -1,4 +1,5 @@
-const { toggleBtn , sidebar} = await import('var.js');
+const sidebar = document.getElementById('sidebar');
+const toggleBtn = document.getElementById('navbar_btn_');
 
 // Function to open the sidebar
 function openSidebar() {
